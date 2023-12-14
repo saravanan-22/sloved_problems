@@ -7,8 +7,9 @@
 // console.log(output);
 // Hel world//
 const pattern = /lo/g
-const message = "hello world ";
+const message = "hello worldlo ";
 console.log(message.match(pattern))
 const modifiedMessage = message.replace(pattern, "");
 
 console.log(modifiedMessage);
+s
